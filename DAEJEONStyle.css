@@ -1,0 +1,113 @@
+
+#back{
+  background-image: url(/images/bg/Daejeonimage.jpg);
+}
+
+#daejeonbg{
+  background-image:url(/images/bg/Daejeonimage.jpg);
+  width: 100%;
+  height: 1000px;
+  background-size:cover;
+  text-align: left;
+}
+
+.daejeontopNav{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+
+}
+
+#daejeontopNav li{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+#daejeontopNav li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 80px;
+  color: white;
+  border-bottom: none;
+}
+
+#daejeontopNav a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.daejeonmark{
+  display: inline-block;
+  margin : auto;
+  padding-top: 5px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+
+#daejeonmark li{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+#daejeonmark li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#daejeonmark a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.daejeonsg{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+#cityImg{
+  padding-left: 30px;
+}
+
+#daejeonsg li{
+  display: inline-block;
+  padding-left: 30px;
+}
+
+#daejeonsg li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#daejeonsg a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+#daejeonmap{
+  float: left;
+  padding-left: 65%
+}
+.sideText{
+  width: 35%;
+  height: 100%;
+  float: left;
+}

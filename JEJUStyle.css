@@ -1,0 +1,113 @@
+
+#back{
+  background-image: url(JEJUimage.jpg);
+}
+
+#jejubg{
+  background-image:url(JEJUimage.jpg);
+  width: 100%;
+  height: 1000px;
+  background-size:cover;
+  text-align: left;
+}
+
+.jejutopNav{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+
+}
+
+#jejutopNav li{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+#jejutopNav li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 80px;
+  color: white;
+  border-bottom: none;
+}
+
+#jejutopNav a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.jejumark{
+  display: inline-block;
+  margin : auto;
+  padding-top: 5px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+
+#jejumark li{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+#jejumark li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#jejumark a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.jejusg{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+#cityImg{
+  padding-left: 30px;
+}
+
+#jejusg li{
+  display: inline-block;
+  padding-left: 30px;
+}
+
+#jejusg li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#jejusg a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+#jejumap{
+  float: left;
+  padding-left: 65%
+}
+.sideText{
+  width: 35%;
+  height: 100%;
+  float: left;
+}

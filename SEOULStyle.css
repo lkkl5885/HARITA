@@ -1,0 +1,113 @@
+
+#back{
+  background-image: url(SEOULimage.jpg);
+}
+
+#seoulbg{
+  background-image:url(SEOULimage.jpg);
+  width: 100%;
+  height: 1000px;
+  background-size:cover;
+  text-align: left;
+}
+
+.seoultopNav{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+
+}
+
+#seoultopNav li{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+#seoultopNav li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 80px;
+  color: white;
+  border-bottom: none;
+}
+
+#seoultopNav a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.seoulmark{
+  display: inline-block;
+  margin : auto;
+  padding-top: 5px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+
+#seoulmark li{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+#seoulmark li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#seoulmark a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.seoulsg{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+#cityImg{
+  padding-left: 30px;
+}
+
+#seoulsg li{
+  display: inline-block;
+  padding-left: 30px;
+}
+
+#seoulsg li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#seoulsg a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+#seoulmap{
+  float: left;
+  padding-left: 65%
+}
+.sideText{
+  width: 35%;
+  height: 100%;
+  float: left;
+}

@@ -1,10 +1,10 @@
 
 #back{
-  background-image: url(background.png);
+  background-image: url(/images/bg/Jeolladoimage.jpg);
 }
 
 #bg{
-  background-image:url(background.png);
+  background-image:url(/images/bg/Jeolladoimage.jpg);
   width: 100%;
   height: 1000px;
   text-align: center;
@@ -12,22 +12,31 @@
 }
 
 
-#topNav{
+#Nav{
   display: inline-block;
   margin : auto;
-  padding-top: 50px;
+  padding-top: 70px;
 }
 
-#topNav li{
+#Nav li{
     display: inline-block;
     padding-right: 70px;
+    padding-left: 40px;
 }
 
-#topNav li a{
+
+#Nav li a{
   font-family: 문체부 쓰기 정체;
-  font-size: 30px;
+  font-size: 50px;
   color: white;
   border-bottom: none;
+}
+
+#Nav a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
 }
 
 .mainTitle{
@@ -49,11 +58,4 @@ text-decoration: none;
 
 #mainTitleDiv{
   font-size:100px;
-}
-
-#topNav a, a:link{
-color: #000000;
-font-weight: regular;
-border-bottom:none;
-text-decoration: none;
 }

@@ -1,0 +1,113 @@
+
+#back{
+  background-image: url(/images/bg/Daeguimage.jpg);
+}
+
+#daegubg{
+  background-image:url(/images/bg/Daeguimage.jpg);
+  width: 100%;
+  height: 1000px;
+  background-size:cover;
+  text-align: left;
+}
+
+.daegutopNav{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+
+}
+
+#daegutopNav li{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+#daegutopNav li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 80px;
+  color: white;
+  border-bottom: none;
+}
+
+#daegutopNav a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.daegumark{
+  display: inline-block;
+  margin : auto;
+  padding-top: 5px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+
+#daegumark li{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+#daegumark li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#daegumark a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.daegusg{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+#cityImg{
+  padding-left: 30px;
+}
+
+#daegusg li{
+  display: inline-block;
+  padding-left: 30px;
+}
+
+#daegusg li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#daegusg a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+#daegumap{
+  float: left;
+  padding-left: 65%
+}
+.sideText{
+  width: 35%;
+  height: 100%;
+  float: left;
+}

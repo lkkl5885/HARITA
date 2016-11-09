@@ -1,0 +1,113 @@
+
+#back{
+  background-image: url(/images/bg/Gwangjuimage.jpg);
+}
+
+#gwangjubg{
+  background-image:url(/images/bg/Gwangjuimage.jpg);
+  width: 100%;
+  height: 1000px;
+  background-size:cover;
+  text-align: left;
+}
+
+.gwangjutopNav{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+
+}
+
+#gwangjutopNav li{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+#gwangjutopNav li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 80px;
+  color: white;
+  border-bottom: none;
+}
+
+#gwangjutopNav a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.gwangjumark{
+  display: inline-block;
+  margin : auto;
+  padding-top: 5px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+
+#gwangjumark li{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+#gwangjumark li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#gwangjumark a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.gwangjusg{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+#cityImg{
+  padding-left: 30px;
+}
+
+#gwangjusg li{
+  display: inline-block;
+  padding-left: 30px;
+}
+
+#gwangjusg li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 18px;
+  color: white;
+  border-bottom: none;
+}
+
+#gwangjusg a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+#gwangjumap{
+  float: left;
+  padding-left: 65%
+}
+.sideText{
+  width: 35%;
+  height: 100%;
+  float: left;
+}

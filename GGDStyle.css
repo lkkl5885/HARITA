@@ -1,0 +1,112 @@
+
+#back{
+  background-image: url(GGDimage.jpg);
+}
+
+#ggdbg{
+  background-image:url(GGDimage.jpg);
+  width: 100%;
+  height: 1000px;
+  background-size:cover;
+  text-align: left;
+}
+
+.ggdtopNav{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+
+}
+
+#ggdtopNav li{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+#ggdtopNav li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 80px;
+  color: white;
+  border-bottom: none;
+}
+
+#ggdtopNav a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.ggdmark{
+  display: inline-block;
+  margin : auto;
+  padding-top: 5px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+
+#ggdmark li{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+#ggdmark li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 19px;
+  color: white;
+  border-bottom: none;
+}
+
+#ggdmark a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.ggdsg{
+  display: inline-block;
+  margin : auto;
+  padding-top: 20px;
+  padding-left: 30px;
+  width: 96%;
+  float: right;
+
+}
+#cityImg{
+  padding-left: 30px;
+}
+
+#ggdsg li{
+  display: inline-block;
+  padding-left: 30px;
+}
+
+#ggdsg li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 19px;
+  color: white;
+  border-bottom: none;
+}
+
+#ggdsg a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
+
+.ggdmap{
+  padding-left: 40%
+}
+.sideText{
+  width: 35%;
+  height: 100%;
+  float: left;
+}

@@ -1,0 +1,37 @@
+
+#back{
+  background-image: url(Gyenggidoimage.jpg);
+}
+
+#ggdbg{
+  background-image:url(Gyenggidoimage.jpg);
+  width: 1000px;
+  height: 1000px;
+  text-align: center;
+  background-size:cover;
+}
+
+.ggdtopNav{
+  display: inline-block;
+  margin : auto;
+  padding-top: 50px;
+}
+
+#ggdtopNav li{
+    display: inline-block;
+    padding-right: 70px;
+}
+
+#ggdtopNav li a{
+  font-family: 문체부 쓰기 정체;
+  font-size: 100px;
+  color: white;
+  border-bottom: none;
+}
+
+#ggdtopNav a, a:link{
+color: #000000;
+font-weight: regular;
+border-bottom:none;
+text-decoration: none;
+}
